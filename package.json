@@ -1,0 +1,12 @@
+{
+  "name": "cjs-notebook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "rollup --config"
+  },
+  "devDependencies": {
+    "rollup": "^2.7.2"
+  }
+}
