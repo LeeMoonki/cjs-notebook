@@ -7,6 +7,6 @@
     "prepare": "rollup --config"
   },
   "devDependencies": {
-    "rollup": "^2.7.2"
+    "rollup": "^3.29.5"
   }
 }
